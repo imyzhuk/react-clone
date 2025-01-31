@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper {
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
