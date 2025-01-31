@@ -8,3 +8,4 @@
 
 # Not implemented
 1. Keys
+2. Showing errors
